@@ -1,4 +1,6 @@
 Bottom Navigation Bar
+
+
 This project demonstrates the implementation of a bottom navigation bar using the persistent_bottom_nav_bar package in Flutter.
 
 The bottom navigation bar consists of three tabs: Notifications, Cart, and Favorites. Each tab displays a badge with a counter that can be increased or decreased using buttons on the respective screens.
